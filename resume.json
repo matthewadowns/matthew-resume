@@ -1,130 +1,111 @@
 {
   "basics": {
     "name": "Matthew Downs",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Software Engineer/Technical Consultant/Scrum Master",
     "email": "downs.matt@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(415) 498-0446",
+    "website": "https://registry.jsonresume.org/matthewdowns",
+    "summary": "Results-proven, motivated, creative software engineer, solutions architect, and technical writer developing in React and Ruby",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
+      "address": "1588 Indiana St. Apt. 10",
+      "postalCode": "CA 94107",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/matthewadowns/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "theUtherSide",
+        "url": "https://github.com/theUtherSide"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Demandbase",
+      "position": "Senior Software Engineer",
+      "website": "https://demandbase.com",
+      "startDate": "2015-01-01",
+      "summary": "Lead engineer on definition, design and build of a major piece of ad tech/marketing tech infrastructure responsible for maintaining JavaScripts assets that intake of billions of records per month across thousands of websites.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Architected and owned a cross-browser/cross-platform JavaScript library for delivering, collecting, and integrating advertising and marketing data streams.",
+        "Build and maintain platform integrations into strategic vendor applications (such as Adobe, Salesforce, Marketo, Google) leading to millions in new revenue from enterprise clients",
+        "Key player on an agile Scrum team building an enterprise SaaS platform as an Engineer, Scrum Master, and Product Manager as-needed daily.",
+        "Develop APIs and microservices for partners and internal users"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "company": "Demandbase",
+      "position": "Senior Solutions Engineer/Consultant",
+      "website": "https://demandbase.com",
+      "startDate": "2012-05-18",
+      "endDate": "2014-12-31",
+      "summary": "As the inaugural member of the services team at Demandbase, I provided technical consulting and elegant integrations into the Demandbase Platform for customers of all sizes.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Defined key roles and processes in the services organization while leading the implementation process with customers, distributed teams, and partners.",
+        "Built solutions and facilitated implementations from requirements through deployment helping to secure millions in new business and renewals.",
+        "Applied agile methodologies to build JavaScript libraries and easy-to-deploy, reusable integrations into various business systems, including Adobe Marketing Cloud, Google Analytics, Marketo, Eloqua, Wordpress, and Drupal",
+        "Lead client implementation projects, defined and delivered new service offerings, documentation, technical trainings, best practices and client engagement framework"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Ohio Northern University",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "startDate": "2003-08-24",
+      "endDate": "2008-05-25"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Front-end Web Development",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "ReactJS",
+        "JavaScript",
+        "HTML5",
+        "SCSS/CSS3",
+        "Grunt, Gulp, webpack"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Ruby development",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Rails",
+        "Rack",
+        "APIs"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Technical writing",
+      "keywords": [
+        "user stories",
+        "test cases",
+        "requirements",
+        "business processes",
+        "documentation"
+      ]
     }
   ],
   "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
+    { "name": "gardening" },
+    { "name": "fermentation" },
+    { "name": "skiing" },
+    { "name": "hiking" },
+    { "name": "camping" },
+    { "name": "Permaculture" },
+    { "name": "collage" }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Available upon request.",
+      "reference": "[Test reference text here]"
     }
   ]
 }

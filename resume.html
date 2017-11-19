@@ -1,0 +1,335 @@
+<!doctype html>
+<html>
+	<head>
+
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width, user-scalable=no, minimal-ui'>
+
+	<title>Matthew Downs</title>
+
+	<style>
+	body {
+  background: #EEEEEE;
+  font: 12px "Times New Roman", Times, sans-serif;
+  line-height: 1.4;
+  margin: 40px 0;
+}
+em {
+  color: #999;
+}
+p {
+  line-height: 1.4;
+}
+ul {
+  margin-bottom: 0;
+}
+li {
+  margin-bottom: 2px;
+}
+a {
+  text-decoration: none;
+}
+
+#resume {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 80px 100px;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 4px #aaa;
+  -webkit-box-shadow: 2px 2px 4px #aaa;
+}
+
+.coursesList {
+  width: 28%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.largeFont {
+  font-size: 20px;
+}
+
+.smallFont {
+  font-size: 12px;
+}
+
+.sectionBlock {
+  display: flex;
+  width: 100%;
+}
+
+.sectionName {
+  width: 18%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.sectionContent {
+  width: 80%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.sectionContent ul {
+  padding-left: 20px;
+  margin-top: 6px;
+  list-style-type: circle;
+}
+
+.sectionContent .title {
+  font-weight: bold;
+}
+
+.sectionContent .date {
+  float: right;
+}
+
+.sectionContent .separator {
+  height: 14px;
+}
+
+.sectionLine {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: #CFCFCF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.divider {
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.summary {
+  margin-top: 6px;
+}
+
+.skillBlock {
+  margin-bottom: 4px;
+}
+
+.jobBlock {
+  page-break-inside: avoid;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 40em) {
+  body {
+    margin: 0;
+    font-size: 14px;
+  }
+  #resume {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 0.5em 1em;
+    border: none;
+  }
+  .sectionContent {
+    width: 100%;
+  }
+  .sectionContent .date {
+    padding-right: 2em;
+  }
+  .sectionName {
+    width: auto;
+  }
+  .largeFont {
+    font-size: 20px;
+  }
+  .smallFont {
+    font-size: 14px;
+  }
+}
+
+@media print {
+  #resume {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 0px 0px;
+    border: 0px;
+    background: #fff;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+  }
+
+  a {
+    color: black;
+  }
+}
+
+	</style>
+
+	</head>
+	<body>
+
+	<div id='resume'>
+  <div id='nameBlock' class='largeFont'>
+    <span class='name'>
+      Matthew Downs,
+    </span>
+    <span class='label'>Software Engineer/Technical Consultant/Scrum Master</span>
+  </div>
+  <div id='basicsBlock' class='smallFont'>
+    <div class='contactBlock'>
+      <span class='email'>downs.matt@gmail.com</span>
+      <span class='divider'>|</span>
+      <span class='phone'>(415) 498-0446</span>
+        <span class='divider'>|</span>
+        <span class='address'>
+          San Francisco, California, US
+        </span>
+    </div>
+      <div id='profilesBlock'>
+            <span class='url'>
+              <a href='https://www.linkedin.com/in/matthewadowns/'>https://www.linkedin.com/in/matthewadowns/</a>
+            </span>
+            <span class='divider'>|</span>
+            <span class='url'>
+              <a href='https://github.com/theUtherSide'>https://github.com/theUtherSide</a>
+            </span>
+            
+      </div>
+  </div>
+  <div class='sectionLine'></div>
+
+  <div id='summaryBlock' class="sectionBlock">
+    <div class='sectionName'>
+      <span>SUMMARY</span>
+    </div>
+    <div class='sectionContent'>
+      <span>Results-proven, motivated, creative software engineer, solutions architect, and technical writer developing in React and Ruby</span>
+    </div>
+  </div>
+  <div class='sectionLine'></div>
+
+  <div id='workBlock' class="sectionBlock">
+    <div class='sectionName'>
+      <span>EXPERIENCE</span>
+    </div>
+    <div class='sectionContent'>
+			<div class="jobBlock">
+	      <div class='blockHeader'>
+	        <span class='title'>
+	          Demandbase, Senior Software Engineer
+	        </span>
+	        <span class='date'>
+	          2015-01-01 &mdash; Present
+	        </span>
+	      </div>
+	      <div><a href='https://demandbase.com'>https://demandbase.com</a></div>
+	      <ul class='highlights'>
+	        <li>Lead engineer on definition, design and build of a major piece of ad tech/marketing tech infrastructure responsible for maintaining JavaScripts assets that intake of billions of records per month across thousands of websites.</li>
+	        <li>Architected and owned a cross-browser/cross-platform JavaScript library for delivering, collecting, and integrating advertising and marketing data streams.</li>
+	        <li>Build and maintain platform integrations into strategic vendor applications (such as Adobe, Salesforce, Marketo, Google) leading to millions in new revenue from enterprise clients</li>
+	        <li>Key player on an agile Scrum team building an enterprise SaaS platform as an Engineer, Scrum Master, and Product Manager as-needed daily.</li>
+	        <li>Develop APIs and microservices for partners and internal users</li>
+	      </ul>
+	      <div class='separator'></div>
+			</div>
+			<div class="jobBlock">
+	      <div class='blockHeader'>
+	        <span class='title'>
+	          Demandbase, Senior Solutions Engineer/Consultant
+	        </span>
+	        <span class='date'>
+	          2012-05-18 &mdash; 2014-12-31
+	        </span>
+	      </div>
+	      <div><a href='https://demandbase.com'>https://demandbase.com</a></div>
+	      <ul class='highlights'>
+	        <li>As the inaugural member of the services team at Demandbase, I provided technical consulting and elegant integrations into the Demandbase Platform for customers of all sizes.</li>
+	        <li>Defined key roles and processes in the services organization while leading the implementation process with customers, distributed teams, and partners.</li>
+	        <li>Built solutions and facilitated implementations from requirements through deployment helping to secure millions in new business and renewals.</li>
+	        <li>Applied agile methodologies to build JavaScript libraries and easy-to-deploy, reusable integrations into various business systems, including Adobe Marketing Cloud, Google Analytics, Marketo, Eloqua, Wordpress, and Drupal</li>
+	        <li>Lead client implementation projects, defined and delivered new service offerings, documentation, technical trainings, best practices and client engagement framework</li>
+	      </ul>
+	      
+			</div>
+    </div>
+  </div>
+  <div class='sectionLine'></div>
+
+
+
+
+	<div id='education' class="sectionBlock">
+    <div class='sectionName'>
+      <span>EDUCATION</span>
+    </div>
+    <div class='sectionContent'>
+      <div class='educationBlock'>
+        <span class='title'>
+          Ohio Northern University
+        </span>
+        <span class='date'>
+          2003-08-24 &mdash; 2008-05-25
+        </span>
+        <div class=''>
+          Bachelor  - Computer Science
+        </div>
+      </div>
+      
+    </div>
+	</div>
+  <div class='sectionLine'></div>
+
+	<div id='skills' class="sectionBlock">
+    <div class='sectionName'>
+      <span>SKILLS</span>
+    </div>
+    <div class='sectionContent'>
+      <div class='skillBlock'>
+        <span class='title'>Front-end Web Development:</span>
+          <span>ReactJS</span>, 
+          <span>JavaScript</span>, 
+          <span>HTML5</span>, 
+          <span>SCSS/CSS3</span>, 
+          <span>Grunt, Gulp, webpack</span>
+      </div>
+      <div class='skillBlock'>
+        <span class='title'>Ruby development:</span>
+          <span>Rails</span>, 
+          <span>Rack</span>, 
+          <span>APIs</span>
+      </div>
+      <div class='skillBlock'>
+        <span class='title'>Technical writing:</span>
+          <span>user stories</span>, 
+          <span>test cases</span>, 
+          <span>requirements</span>, 
+          <span>business processes</span>, 
+          <span>documentation</span>
+      </div>
+    </div>
+	</div>
+  <div class='sectionLine'></div>
+
+
+	<div id='interests' class="sectionBlock">
+    <div class='sectionName'>
+      <span>INTERESTS</span>
+    </div>
+    <div class='sectionContent'>
+      <span class='name'>gardening</span><!--
+      --><span>, </span>
+      <span class='name'>fermentation</span><!--
+      --><span>, </span>
+      <span class='name'>skiing</span><!--
+      --><span>, </span>
+      <span class='name'>hiking</span><!--
+      --><span>, </span>
+      <span class='name'>camping</span><!--
+      --><span>, </span>
+      <span class='name'>Permaculture</span><!--
+      --><span>, </span>
+      <span class='name'>collage</span><!--
+      -->
+    </div>
+    <div class='sectionLine'></div>
+	</div>
+
+	</body>
+</html>
