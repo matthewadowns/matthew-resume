@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Matthew Downs",
-    "label": "Software Engineer, Scrum Master, Technical Consultant",
+    "label": "Software Engineer/Technical Consultant/Scrum Master",
     "email": "downs.matt@gmail.com",
     "phone": "(415) 498-0446",
     "website": "https://registry.jsonresume.org/matthewdowns",
-    "summary": "Coming Soon",
+    "summary": "Results-proven, motivated, creative software engineer, solutions architect, and technical writer developing in React and Ruby",
     "location": {
       "address": "1588 Indiana St. Apt. 10",
       "postalCode": "CA 94107",
@@ -30,23 +30,27 @@
       "company": "Demandbase",
       "position": "Senior Software Engineer",
       "website": "https://demandbase.com",
-      "startDate": "2015-06-01",
-      "summary": "summary",
+      "startDate": "2015-01-01",
+      "summary": "Lead engineer on definition, design and build of a major piece of ad tech/marketing tech infrastructure responsible for maintaining JavaScripts assets that intake of billions of records per month across thousands of websites.",
       "highlights": [
-        "HIGHLIGHTS"
+        "Architected and owned a cross-browser/cross-platform JavaScript library for delivering, collecting, and integrating advertising and marketing data streams.",
+        "Build and maintain platform integrations into strategic vendor applications (such as Adobe, Salesforce, Marketo, Google) leading to millions in new revenue from enterprise clients",
+        "Key player on an agile Scrum team building an enterprise SaaS platform as an Engineer, Scrum Master, and Product Manager as-needed daily.",
+        "Develop APIs and microservices for partners and internal users"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "New Traditions Elementary School",
-      "position": "Garden Coordinator",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Growing food with kids",
+      "company": "Demandbase",
+      "position": "Senior Solutions Engineer/Consultant",
+      "website": "https://demandbase.com",
+      "startDate": "2012-05-18",
+      "endDate": "2014-12-31",
+      "summary": "As the inaugural member of the services team at Demandbase, I provided technical consulting and elegant integrations into the Demandbase Platform for customers of all sizes.",
       "highlights": [
-        "Teaching composting and urban permaculture"
+        "Defined key roles and processes in the services organization while leading the implementation process with customers, distributed teams, and partners.",
+        "Built solutions and facilitated implementations from requirements through deployment helping to secure millions in new business and renewals.",
+        "Applied agile methodologies to build JavaScript libraries and easy-to-deploy, reusable integrations into various business systems, including Adobe Marketing Cloud, Google Analytics, Marketo, Eloqua, Wordpress, and Drupal",
+        "Lead client implementation projects, defined and delivered new service offerings, documentation, technical trainings, best practices and client engagement framework"
       ]
     }
   ],
@@ -61,36 +65,47 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Front-end Web Development",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "ReactJS",
+        "JavaScript",
+        "HTML5",
+        "SCSS/CSS3",
+        "Grunt, Gulp, webpack"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Senior",
+      "name": "Ruby development",
       "keywords": [
-        "React",
-        "Node"
+        "Rails",
+        "Rack",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Technical writing",
+      "keywords": [
+        "user stories",
+        "test cases",
+        "requirements",
+        "business processes",
+        "documentation"
       ]
     }
   ],
   "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
+    { "name": "gardening" },
+    { "name": "fermentation" },
+    { "name": "skiing" },
+    { "name": "hiking" },
+    { "name": "camping" },
+    { "name": "Permaculture" },
+    { "name": "collage" }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Available upon request.",
+      "reference": "[Test reference text here]"
     }
   ]
 }
