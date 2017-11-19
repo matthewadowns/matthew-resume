@@ -1,2 +1,5 @@
-# matthew-resume
-Built for jsonresume
+# Matthew Downs Resume
+
+Welcome to my JSON resume.
+
+Built using jsonresume
