@@ -5,7 +5,7 @@
     "email": "downs.matt@gmail.com",
     "phone": "(415) 498-0446",
     "website": "https://registry.jsonresume.org/matthewdowns",
-    "summary": "Results-proven, motivated, creative software engineer, solutions architect, and technical writer developing in React and Ruby",
+    "summary": "Results-proven, motivated, creative engineer, solutions architect, and technical consultant developing in React, JavaScript, and Ruby",
     "location": {
       "address": "1588 Indiana St. Apt. 10",
       "postalCode": "CA 94107",
@@ -42,7 +42,6 @@
     {
       "company": "Demandbase",
       "position": "Senior Solutions Engineer/Consultant",
-      "website": "https://demandbase.com",
       "startDate": "2012-05-18",
       "endDate": "2014-12-31",
       "summary": "As the inaugural member of the services team at Demandbase, I provided technical consulting and elegant integrations into the Demandbase Platform for customers of all sizes.",
@@ -51,6 +50,49 @@
         "Built solutions and facilitated implementations from requirements through deployment helping to secure millions in new business and renewals.",
         "Applied agile methodologies to build JavaScript libraries and easy-to-deploy, reusable integrations into various business systems, including Adobe Marketing Cloud, Google Analytics, Marketo, Eloqua, Wordpress, and Drupal",
         "Lead client implementation projects, defined and delivered new service offerings, documentation, technical trainings, best practices and client engagement framework"
+      ]
+    },
+    {
+      "company": "Big Machines (now Oracle CPQ)",
+      "position": "Senior Implementation Engineer, Professional Services",
+      "startDate": "2009-12-09",
+      "endDate": "2012-05-10",
+      "summary": "Tech Lead and Solution Architect for key enterprise customers, discovered and documented business processes and requirements, developed requirements into innovative designs, coded and configured solutions while managing project quality and scope.",
+      "highlights": [
+        "Configured and coded BigMachines application functionality rapidly developing and deploying best-in-class integrated solutions.",
+        "Trained business users and system administrators on the BigMachines platform, including conducting training sessions and producing high-quality documentation.",
+        "Demonstrated design skilss as a User Experience Specialist, reviewed and refined visual and usability aspects of solution design."
+      ]
+    },
+    {
+      "company": "Intuit, Inc.",
+      "position": "Senior Implementation Engineer, Professional Services",
+      "website": "https://www.intuit.com/",
+      "startDate": "2008-06-01",
+      "endDate": "2009-12-01",
+      "summary": "Java web application developer for payroll and accounting products for small businesses",
+      "highlights": [
+        "Delivered superb quality on high-performance projects developing UI and payroll engine for Intuit Online Payroll with a cross-functional, customer-driven, business-aware team",
+        "Accelerated development of state tax forms by improving processes, communication, and task-coordination; Correlated with marketing team and contributed to steep growth in users.",
+        "Improved customer experience as a lead developer with a distributed team, maintaining steady iterations on a regular release cycle.",
+        "Contributed to initiatives for architecture upgrades, standards compliance, user studies, and usability improvements",
+        "Submitted original ideas for patent review for user interfaces, product features and financial/healthcare products.",
+        "Utilized unstructured time for innovation-driven engineering activities; Contributed design, development, and business analysis to creative side projects.",
+        "Participated in follow-me-home user studies, observed lab studies, participated in pilot analysis, and delivered reports results.",
+        "Assisted users and gained customer perspective as a phone/chat support representative and online community contributor."
+      ]
+    },
+    {
+      "company": "Cooper Tire and Rubber",
+      "position": "Software Developer",
+      "website": "http://us.coopertire.com/",
+      "startDate": "2005-08-01",
+      "endDate": "2007-08-01",
+      "summary": "In-house .NET developer at a major manufacturing company",
+      "highlights": [
+        "Lead developer on fast-paced, customer-driven team on key application for improving business processes for LEAN manufacturing organization (ASP/VB .NET/Oracle)",
+        "Performed business requirements analysis with internal clients; co-authored software design documents and feature requirements for logistics and manipulating factory machinery",
+        "Designed and built Crystal Reports, Oracle stored procedures and accompanying web application features"
       ]
     }
   ],
@@ -75,11 +117,13 @@
       ]
     },
     {
-      "name": "Ruby development",
+      "name": "Back-end Ruby development",
       "keywords": [
         "Rails",
         "Rack",
-        "APIs"
+        "RSpec",
+        "APIs",
+        "integrations"
       ]
     },
     {
